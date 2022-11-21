@@ -18,11 +18,11 @@
 - Zipped Image Exporting
   - Only Useable after WebUI is shutdown
 - MARES
-  - I love them
+  - I love them.
 - Fast
-  - Shout out to Google GPU's
+  - Shout out to Google GPU's.
 - Free
-  - Give me money
+  - Give me money >:(
 
 # Respect
 [automatic1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  
