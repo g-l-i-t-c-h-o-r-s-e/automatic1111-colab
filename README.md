@@ -16,9 +16,13 @@
 - Advanced options
   - You can easily change advanced options by simply clicking a checkbox.
 - Zipped Image Exporting
+  - Only Useable after WebUI is shutdown
 - MARES
+  - I love them
 - Fast
+  - Shout out to Colab GPU's
 - Free
+  - Give me money
 
 # Respect
 [automatic1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  
