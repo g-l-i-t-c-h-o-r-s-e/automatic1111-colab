@@ -20,7 +20,7 @@
 - MARES
   - I love them
 - Fast
-  - Shout out to Colab GPU's
+  - Shout out to Google GPU's
 - Free
   - Give me money
 
