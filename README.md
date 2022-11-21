@@ -22,7 +22,7 @@
 - Fast
   - Shout out to Google GPU's.
 - Free
-  - Give me money >:(
+  - I'm poor too lol.
 
 # Respect
 [automatic1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  
