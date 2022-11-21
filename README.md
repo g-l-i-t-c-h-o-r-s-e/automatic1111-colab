@@ -17,6 +17,8 @@
   - You can easily change advanced options by simply clicking a checkbox.
 - MARES
 - Zipped Image Exporting
+- Fast
+- Free
 
 # Respect
 [automatic1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  
