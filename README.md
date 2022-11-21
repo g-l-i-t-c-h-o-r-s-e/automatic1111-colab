@@ -15,8 +15,8 @@
   - You can use Ngrok tunneling for more stable communication.
 - Advanced options
   - You can easily change advanced options by simply clicking a checkbox.
-- MARES
 - Zipped Image Exporting
+- MARES
 - Fast
 - Free
 
